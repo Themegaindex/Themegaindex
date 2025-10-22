@@ -8,8 +8,6 @@ I am a developer with a focus on Python and JavaScript, dedicated to creating in
 
 ## Skills & Technologies
 
-## Skills & Technologies
-
 [![My Skills](https://skillicons.dev/icons?i=nodejs,html,css,git,docker,flask,react,vue,linux,mysql,postgres,graphql,aws,java,spring,py,nextjs,electron,tailwind,js,fastapi,cloudflare,bootstrap,django,firebase,supabase,sqlite,visualstudio,angular,go&perline=8)](https://skillicons.dev)
 
 ## Top Projects
